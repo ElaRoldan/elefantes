@@ -142,6 +142,7 @@
 #   return result
 # end
 
+#no entendemos que hace la primera parte de esta funcion 
 
 # AYUDAME: Refactoriza buscando elegancia 
 def squared_primes(array)
